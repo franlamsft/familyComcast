@@ -1,0 +1,27 @@
+body {
+  padding-top: 50px;
+}
+.main {
+  padding: 40px 0px;
+}
+.bg{
+  text-align: center;
+}
+
+.bg h3{
+  margin: 20px 0px;
+}
+
+.bg:hover,.bg:active{
+  text-decoration: none;
+}
+.margin {
+  margin-top: 20px;
+}
+
+.nav-tabs>li>a {
+  background-color: white;
+  border: none;
+}
+
+
